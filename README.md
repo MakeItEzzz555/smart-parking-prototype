@@ -14,6 +14,14 @@ Custom-painted rounded controls, screen navigation, hover/click state, dynamic r
 
 C# /  .NET / WinForms
 
+## Preview
+
+Selecting an available space in the local parking-map UI prototype.
+
+<p align="center">
+  <img src="docs/screenshots/parking-map.png" alt="Selecting an available space in the local parking-map UI prototype." width="420">
+</p>
+
 ## Getting Started
 
 Requires Windows and the .NET 8 SDK with Windows Forms support. Open `SmartParking.sln`, which references `SmartParking/SmartParking.csproj`, or run `dotnet run --project SmartParking/SmartParking.csproj`. The solution includes older Form1 files excluded by the canonical project configuration; those source files remain unchanged. Implemented scope is UI selection and reservation summaries; sensors, persistent bookings, QR and payment integrations are absent.
